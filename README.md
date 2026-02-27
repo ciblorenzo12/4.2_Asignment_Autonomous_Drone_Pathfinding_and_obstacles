@@ -186,16 +186,7 @@ pip install pygame --upgrade
 - Navigation phase: ~200-400 steps (A* pathfinding)
 - Real-time at 6 fps ensures visibility of drone behavior
 
-## Assignment Compliance
 
-✅ Autonomous pathfinding with obstacles  
-✅ Static and dynamic hazards  
-✅ Real-time visualization  
-✅ Performance metrics tracking  
-✅ Sensor-based perception  
-✅ AI trajectory prediction  
-✅ Multiple mission objectives  
-✅ Professional code documentation  
 
 ## License
 
