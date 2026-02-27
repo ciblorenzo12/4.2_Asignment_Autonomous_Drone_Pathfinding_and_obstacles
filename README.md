@@ -17,6 +17,7 @@ A real-time autonomous drone simulation with AI-powered trajectory prediction, s
 ## Quick Start
 
 ### Windows Users
+### Added multiplke scripts to make it easier to test for non developers 
 
 **Option 1: Batch Script (Easiest)**
 ```cmd
